@@ -3,7 +3,7 @@ Object Detcction using a classifier and sliding window
 
 
 
-
+<img src="demo.gif">
 
 <h3>Usage</h3>
 
