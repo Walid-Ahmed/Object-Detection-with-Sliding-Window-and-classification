@@ -1,4 +1,4 @@
-# Object Detection using a classifier and sliding window
+# Object Detection using a Classifier and Sliding Window
 
 
 
